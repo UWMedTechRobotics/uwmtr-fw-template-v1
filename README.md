@@ -1,9 +1,9 @@
 # Firmware Development Setup Instructions
 Written by [@AdrianTarantino](https://github.com/AdrianTarantino)
-Last edited July 8, 2026
+Last edited July 17, 2026
 
 ## Introduction
-This tutorial will demonstrate how to setup and use [`STM32CubeIDE for VsCode`](https://e that youmarketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32-vscode-extension) with [`CMake`](https://cmake.org/).
+This tutorial will demonstrate how to setup and use [`STM32CubeIDE for VsCode`](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32-vscode-extension) with [`CMake`](https://cmake.org/).
 
 ## Prerequisite Software
 Download the following software:
